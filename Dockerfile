@@ -1,5 +1,5 @@
 # renovate: datasource=github-releases depName=containerbase/python-prebuild
-ARG PYTHON_VERSION=3.9.7
+ARG PYTHON_VERSION=3.10.0
 
 FROM ghcr.io/containerbase/buildpack:1.19.3@sha256:01446b3d46c04837461316723fe6acceb306b20c8ea0e0bf2210f7bef8f87e70
 
