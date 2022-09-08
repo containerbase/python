@@ -13,7 +13,7 @@ ENV PYTHON_VERSION=3.6.15
 ENV PYTHON_VERSION=3.7.14
 
 # renovate: datasource=github-releases depName=containerbase/python-prebuild
-ENV PYTHON_VERSION=3.8.13
+ENV PYTHON_VERSION=3.8.14
 
 # renovate: datasource=github-releases depName=containerbase/python-prebuild
 ENV PYTHON_VERSION=3.9.13
