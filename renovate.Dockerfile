@@ -10,7 +10,7 @@ FROM scratch
 ENV PYTHON_VERSION=3.6.15
 
 # renovate: datasource=github-releases depName=containerbase/python-prebuild
-ENV PYTHON_VERSION=3.7.14
+ENV PYTHON_VERSION=3.7.15
 
 # renovate: datasource=github-releases depName=containerbase/python-prebuild
 ENV PYTHON_VERSION=3.8.14
